@@ -2,4 +2,4 @@
 
 A browser-based Babylon.js campus game.
 
-The GitHub Pages deployment is configured in `.github/workflows/deploy.yml`.
+GitHub Pages deployment uses the workflow in `.github/workflows/deploy.yml`.
